@@ -1,0 +1,6 @@
+components,fit_time_seconds,explained_variance_ratio,relative_reconstruction_error_estimate,customer_factor_mb,product_factor_mb,combined_factor_mb
+10,0.139,0.198303,0.876086,0.418,0.282,0.7
+20,0.152,0.252519,0.845842,0.837,0.563,1.4
+50,0.406,0.348873,0.789411,2.092,1.408,3.499
+100,0.605,0.447274,0.727293,4.183,2.815,6.998
+200,1.299,0.573637,0.638758,8.366,5.63,13.997

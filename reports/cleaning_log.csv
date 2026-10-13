@@ -1,0 +1,7 @@
+rule,rows_before,rows_after,rows_removed,reason
+Remove cancellation invoices,1067371,1047877,19494,Invoice numbers starting with C
+Remove invalid quantities,1047877,1044420,3457,Quantity must be greater than zero
+Remove invalid prices,1044420,1041670,2750,Unit price must be greater than zero
+Remove known non-product codes,1041670,1038863,2807,"Exclude POST, M, D and BANK CHARGES"
+Remove missing customer IDs,1038863,802965,235898,Customer-level recommendations require a customer ID
+"Remove invalid invoice, product code or date",802965,802965,0,Essential transaction fields must be present

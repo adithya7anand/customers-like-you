@@ -1,0 +1,5 @@
+analysis,metric,value,interpretation
+Five-cluster solution,Silhouette score,0.0210058648325767,Low separation; exploratory use only
+Eight-cluster solution,Silhouette score,0.0226244911294236,Low separation; exploratory use only
+Eight-cluster stability,Minimum alternative-seed ARI,0.7827543975669232,Shows agreement with seed 42; some assignments vary
+Eight-cluster stability,Maximum alternative-seed ARI,0.9085867077645507,Shows agreement with seed 42; not proof of business validity

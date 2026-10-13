@@ -1,0 +1,3 @@
+n_clusters,silhouette_score,smallest_cluster_size,largest_cluster_size,cluster_size_std,zero_vector_customers,svd_seconds,kmeans_fit_seconds,svd_components,random_state,silhouette_sample_size
+5,0.02100586483257679,675,1907,450.16468097797275,0,1.1893245000392199,22.498199399968144,200,42,1500
+8,0.022624491129423684,256,1673,424.2861468101451,0,1.1893245000392199,1.2168229999952018,200,42,1500

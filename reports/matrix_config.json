@@ -1,0 +1,18 @@
+{
+  "customers": 5483,
+  "products": 3690,
+  "matrix_rows": 5483,
+  "matrix_columns": 3690,
+  "nonzero_entries": 414008,
+  "total_cells": 20232270,
+  "sparsity_percent": 97.9537,
+  "dense_memory_mb": 154.36,
+  "sparse_memory_mb": 4.759,
+  "memory_reduction_percent": 96.917,
+  "purchase_value": "log1p of aggregated quantity",
+  "minimum_customers_per_product": 10,
+  "matrix_format": "CSR",
+  "dtype": "float64",
+  "build_time_seconds": 1.318,
+  "random_seed": 42
+}

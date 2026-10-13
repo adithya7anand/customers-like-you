@@ -1,0 +1,2 @@
+raw_rows,clean_rows,training_rows,test_rows,unseen_test_rows,latest_cleaned_date,test_cutoff,training_customers,test_customers
+1067371,802965,684357,118608,72924,2011-12-09 12:50:00,2011-10-09 12:50:00,5484,2420

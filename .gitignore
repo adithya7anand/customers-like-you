@@ -1,0 +1,51 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and build artifacts
+*.log
+build/
+dist/
+*.egg-info/
+
+# Raw and generated customer data
+data/raw/
+data/processed/
+
+# Internal/customer-level outputs
+reports/customer_recommendations_top10.csv
+reports/segment_top_products_internal.csv
+
+# Generated model files
+models/
+
+# Temporary presentation charts
+reports/_presentation_*.png
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Local environment files
+.python-version

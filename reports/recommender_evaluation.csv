@@ -1,0 +1,2 @@
+method,components,customers_evaluated,svd_hits_at_10,svd_hit_rate_at_10,baseline_hits_at_10,baseline_hit_rate_at_10,hit_rate_difference,recommendation_scoring_seconds
+Truncated SVD,50,1913,711,0.3716675378985886,333,0.17407213800313642,0.19759539989545216,0.9488620000192896

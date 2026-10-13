@@ -1,0 +1,26 @@
+cluster,Country,customers,segment_customer_count,segment_percentage,segment_name,country_rank
+0,United Kingdom,864,997,86.65997993981945,"Games, Toys & Gifts",1
+0,Germany,30,997,3.009027081243731,"Games, Toys & Gifts",2
+0,France,29,997,2.908726178535607,"Games, Toys & Gifts",3
+0,Belgium,10,997,1.0030090270812437,"Games, Toys & Gifts",4
+0,Switzerland,8,997,0.802407221664995,"Games, Toys & Gifts",5
+1,United Kingdom,594,675,88.0,Bags & Storage,1
+1,Germany,19,675,2.814814814814815,Bags & Storage,2
+1,France,17,675,2.5185185185185186,Bags & Storage,3
+1,Portugal,8,675,1.1851851851851851,Bags & Storage,4
+1,Belgium,7,675,1.037037037037037,Bags & Storage,5
+2,United Kingdom,1171,1204,97.25913621262458,Decorative Homeware,1
+2,Cyprus,5,1204,0.41528239202657813,Decorative Homeware,2
+2,Spain,4,1204,0.33222591362126247,Decorative Homeware,3
+2,France,3,1204,0.24916943521594684,Decorative Homeware,4
+2,Netherlands,3,1204,0.24916943521594684,Decorative Homeware,5
+3,United Kingdom,586,700,83.71428571428572,Baking & Cake Decoration,1
+3,Germany,24,700,3.428571428571429,Baking & Cake Decoration,2
+3,France,21,700,3.0,Baking & Cake Decoration,3
+3,Spain,9,700,1.2857142857142856,Baking & Cake Decoration,4
+3,Belgium,8,700,1.1428571428571428,Baking & Cake Decoration,5
+4,United Kingdom,1784,1907,93.55007865757734,"Broad-Mix, Lower-Frequency",1
+4,Germany,22,1907,1.1536444677503932,"Broad-Mix, Lower-Frequency",2
+4,France,16,1907,0.8390141583639223,"Broad-Mix, Lower-Frequency",3
+4,Spain,9,1907,0.47194546407970633,"Broad-Mix, Lower-Frequency",4
+4,Switzerland,6,1907,0.3146303093864709,"Broad-Mix, Lower-Frequency",5

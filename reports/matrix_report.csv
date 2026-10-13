@@ -1,0 +1,2 @@
+customers,products,matrix_rows,matrix_columns,nonzero_entries,total_cells,sparsity_percent,dense_memory_mb,sparse_memory_mb,memory_reduction_percent,purchase_value,minimum_customers_per_product,matrix_format,dtype,build_time_seconds,random_seed
+5483,3690,5483,3690,414008,20232270,97.9537,154.36,4.759,96.917,log1p of aggregated quantity,10,CSR,float64,1.318,42
